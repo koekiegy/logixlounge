@@ -1,0 +1,26 @@
+/*centered alles wat deze class in de function heeft*/
+.centertext {
+display: block;
+margin-right: auto;
+margin-left: auto;
+width: 70%;
+}
+/*ik weet niet wrm dit niet gewoon normaal werkt vraag mij niks*/
+.imgcenterleft {
+display: border-box;
+margin-right: auto;
+width: 30%;
+}
+
+.imgcenterleft2 {
+display: border-box;
+margin-right: auto;
+width: 25.4%;
+}
+
+.imgcenter {
+display: border-box;
+margin-right: auto;
+margin-left: auto;
+width: 20%;
+}
